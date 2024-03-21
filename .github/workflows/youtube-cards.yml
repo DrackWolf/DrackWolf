@@ -1,8 +1,8 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Fire at 10:15 AM on the 15th day of every month
-    - cron: 0 15 10 15 * ?
+    # At 12:00 AM, only on Friday
+    - cron: 0 0 * * FRI
   workflow_dispatch:
 
 jobs:

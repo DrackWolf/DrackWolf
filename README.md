@@ -1,13 +1,13 @@
-# Hi there! **Welcome to my Github page** 👋
+# 😄 Hi there! **Welcome to my Github page** 👋
 
 
 [![Banner DrackWolf](Card.webp)](https://drackwolf.com)
 
 
-I'm Luis Marroquín, a Motion Grapher, VFX/3D Artist & Frontend Web Developer.
+💬 I'm Luis Marroquín, a Motion Grapher, VFX/3D Artist & Frontend Web Developer.
 
 
-## Social Networks
+## 📫 Social Networks
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DrackWolfHD)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Drack_Wolf)
@@ -18,7 +18,7 @@ I'm Luis Marroquín, a Motion Grapher, VFX/3D Artist & Frontend Web Developer.
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/drackwolf)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/drackwolf)
 
-## Skills
+## ⚡ Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,17 +47,3 @@ I'm Luis Marroquín, a Motion Grapher, VFX/3D Artist & Frontend Web Developer.
 <!-- END YOUTUBE-CARDS -->
 
 
-<!--
-**DrackWolf/DrackWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
